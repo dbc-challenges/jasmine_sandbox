@@ -1,6 +1,6 @@
 # Jasmine Sandbox
 
-A development sandbox for playing with the [Jasmine testing library](http://pivotal.github.com/jasmine/).
+A development sandbox for playing with the [Jasmine testing library](https://jasmine.github.io/).
 
 ### Getting Started
 
